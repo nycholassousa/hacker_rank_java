@@ -1,1 +1,1 @@
-"# hacker_rank_java" 
+# Hacker Rank - Java Solutions
